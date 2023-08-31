@@ -183,7 +183,7 @@ def menu(a):
 
 
 
-    wel = Label(menu_canvas,text=' W E L C O M E  T O  Q U I Z  S T A T I O N ',fg="white",bg="orange")
+    wel = Label(menu_canvas,text=' W E L C O M E  T O  Q U I Z   A P P ',fg="white",bg="orange")
     wel.config(font=('Broadway 22'))
     wel.place(relx=0.1,rely=0.02)
 
